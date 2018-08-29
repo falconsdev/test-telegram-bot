@@ -14,8 +14,12 @@ module.exports = {
 }
 ```
 
- - Установить [Node.JS 10.9.0](https://nodejs.org/en).
+ - Установить [Node.JS 10.9.0](https://nodejs.org/en), npm, nvm.
  - Перенести папку на **Рабочий стол** и назвать ее как хотите, у меня будет, допустим, **tgbot**.
+ - Установить **telegraf**:
+ 
+ > C:\\Users\\User\\Desktop\\tgbot> npm i telegraf
+ 
  - Запустить файл **index.js**, прописав в командной строке:
 
 > C:\\Users\\User\\Desktop\\tgbot> node index.js
