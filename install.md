@@ -2,7 +2,7 @@
 
 * Откройте терминал, скопируйте данный текст и вставьте:
 ```
-curl https://raw.githubusercontent.com/creationix/nvm/v0.11.1/install.sh | bash
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash
 ```
 
 * Вы получите сообщение:
