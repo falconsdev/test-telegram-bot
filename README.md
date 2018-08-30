@@ -14,7 +14,7 @@ module.exports = {
 }
 ```
 
- - Установить [Node.JS 10.9.0](https://nodejs.org/en), npm, nvm.
+ - Установить [Node.JS 10.9.0](https://nodejs.org/en), [инструкция для Ubuntu 16.04.4](install.md).
  - Перенести папку на **Рабочий стол** и назвать ее как хотите, у меня будет, допустим, **tgbot**.
  - Установить **telegraf**:
  
