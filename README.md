@@ -19,13 +19,13 @@ module.exports = {
  - Установить **telegraf**:
  
  ```
- C:\\Users\\User\\Desktop\\tgbot> npm i telegraf
+ C:\Users\User\Desktop\tgbot> npm i telegraf
  ```
  
  - Запустить файл **index.js**, прописав в командной строке:
 
 ```
-C:\\Users\\User\\Desktop\\tgbot> node index.js
+C:\Users\User\Desktop\tgbot> node index.js
 ```
 
 ![Консольные команды](https://pp.userapi.com/c845216/v845216306/d9c28/kvDMCyPwdjI.jpg)
